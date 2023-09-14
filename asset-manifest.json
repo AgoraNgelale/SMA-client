@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SMA-client/static/css/main.b62ea404.css",
+    "main.js": "/SMA-client/static/js/main.2c85180d.js",
+    "index.html": "/SMA-client/index.html",
+    "main.b62ea404.css.map": "/SMA-client/static/css/main.b62ea404.css.map",
+    "main.2c85180d.js.map": "/SMA-client/static/js/main.2c85180d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b62ea404.css",
+    "static/js/main.2c85180d.js"
+  ]
+}
